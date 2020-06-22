@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aneriPatel/static/css/main.b990fa4d.chunk.css",
-    "main.js": "/aneriPatel/static/js/main.f5aa38a3.chunk.js",
-    "main.js.map": "/aneriPatel/static/js/main.f5aa38a3.chunk.js.map",
+    "main.js": "/aneriPatel/static/js/main.69b77a9e.chunk.js",
+    "main.js.map": "/aneriPatel/static/js/main.69b77a9e.chunk.js.map",
     "runtime-main.js": "/aneriPatel/static/js/runtime-main.7ec50a3e.js",
     "runtime-main.js.map": "/aneriPatel/static/js/runtime-main.7ec50a3e.js.map",
     "static/css/2.af3c1da9.chunk.css": "/aneriPatel/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ed26047e.chunk.js": "/aneriPatel/static/js/2.ed26047e.chunk.js",
     "static/js/2.ed26047e.chunk.js.map": "/aneriPatel/static/js/2.ed26047e.chunk.js.map",
     "index.html": "/aneriPatel/index.html",
-    "precache-manifest.aa217adf7ea627d1194ba7525fee64ae.js": "/aneriPatel/precache-manifest.aa217adf7ea627d1194ba7525fee64ae.js",
+    "precache-manifest.0751294fcda920d650298e5a1f2ef3f7.js": "/aneriPatel/precache-manifest.0751294fcda920d650298e5a1f2ef3f7.js",
     "service-worker.js": "/aneriPatel/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/aneriPatel/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.b990fa4d.chunk.css.map": "/aneriPatel/static/css/main.b990fa4d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ed26047e.chunk.js",
     "static/css/main.b990fa4d.chunk.css",
-    "static/js/main.f5aa38a3.chunk.js"
+    "static/js/main.69b77a9e.chunk.js"
   ]
 }
