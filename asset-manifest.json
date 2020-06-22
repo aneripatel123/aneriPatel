@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/aneriPatel/static/css/main.5bfec1bb.chunk.css",
-    "main.js": "/aneriPatel/static/js/main.ca5fac36.chunk.js",
-    "main.js.map": "/aneriPatel/static/js/main.ca5fac36.chunk.js.map",
+    "main.css": "/aneriPatel/static/css/main.cedb98e6.chunk.css",
+    "main.js": "/aneriPatel/static/js/main.3a3be49b.chunk.js",
+    "main.js.map": "/aneriPatel/static/js/main.3a3be49b.chunk.js.map",
     "runtime-main.js": "/aneriPatel/static/js/runtime-main.7ec50a3e.js",
     "runtime-main.js.map": "/aneriPatel/static/js/runtime-main.7ec50a3e.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/aneriPatel/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1368177e.chunk.js": "/aneriPatel/static/js/2.1368177e.chunk.js",
-    "static/js/2.1368177e.chunk.js.map": "/aneriPatel/static/js/2.1368177e.chunk.js.map",
+    "static/css/2.17c3e5c2.chunk.css": "/aneriPatel/static/css/2.17c3e5c2.chunk.css",
+    "static/js/2.5a11a9b2.chunk.js": "/aneriPatel/static/js/2.5a11a9b2.chunk.js",
+    "static/js/2.5a11a9b2.chunk.js.map": "/aneriPatel/static/js/2.5a11a9b2.chunk.js.map",
     "index.html": "/aneriPatel/index.html",
-    "precache-manifest.e10a5d24af6058641bb8ba65fc8e3b01.js": "/aneriPatel/precache-manifest.e10a5d24af6058641bb8ba65fc8e3b01.js",
+    "precache-manifest.941f11ad3a1be689228c6916fb5b909d.js": "/aneriPatel/precache-manifest.941f11ad3a1be689228c6916fb5b909d.js",
     "service-worker.js": "/aneriPatel/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/aneriPatel/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5bfec1bb.chunk.css.map": "/aneriPatel/static/css/main.5bfec1bb.chunk.css.map",
-    "static/js/2.1368177e.chunk.js.LICENSE.txt": "/aneriPatel/static/js/2.1368177e.chunk.js.LICENSE.txt"
+    "static/css/2.17c3e5c2.chunk.css.map": "/aneriPatel/static/css/2.17c3e5c2.chunk.css.map",
+    "static/css/main.cedb98e6.chunk.css.map": "/aneriPatel/static/css/main.cedb98e6.chunk.css.map",
+    "static/js/2.5a11a9b2.chunk.js.LICENSE.txt": "/aneriPatel/static/js/2.5a11a9b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7ec50a3e.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1368177e.chunk.js",
-    "static/css/main.5bfec1bb.chunk.css",
-    "static/js/main.ca5fac36.chunk.js"
+    "static/css/2.17c3e5c2.chunk.css",
+    "static/js/2.5a11a9b2.chunk.js",
+    "static/css/main.cedb98e6.chunk.css",
+    "static/js/main.3a3be49b.chunk.js"
   ]
 }
