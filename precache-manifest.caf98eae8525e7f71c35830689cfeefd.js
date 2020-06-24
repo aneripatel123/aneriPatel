@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6de14cd66c521778e0abaad8b0a526f6",
+    "revision": "b544ce62e2a823d531bb316288ee39d6",
     "url": "/aneriPatel/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aneriPatel/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "bb901804b86a50c7848a",
-    "url": "/aneriPatel/static/css/main.9b18f7df.chunk.css"
+    "revision": "1b7122ec95e0f9d83a5c",
+    "url": "/aneriPatel/static/css/main.3f2e9f23.chunk.css"
   },
   {
     "revision": "b1e2d99cf571b39f965b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aneriPatel/static/js/2.e357640c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb901804b86a50c7848a",
-    "url": "/aneriPatel/static/js/main.09be1282.chunk.js"
+    "revision": "1b7122ec95e0f9d83a5c",
+    "url": "/aneriPatel/static/js/main.020ff629.chunk.js"
   },
   {
     "revision": "7e0350bc4b715166022e",
