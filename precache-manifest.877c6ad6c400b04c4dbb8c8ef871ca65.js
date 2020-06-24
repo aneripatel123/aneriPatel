@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a77cdd00606c394e4bd56396efbcedbf",
+    "revision": "6de14cd66c521778e0abaad8b0a526f6",
     "url": "/aneriPatel/index.html"
   },
   {
-    "revision": "e20ba5b47ab05539af50",
+    "revision": "b1e2d99cf571b39f965b",
     "url": "/aneriPatel/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "bc7cf1220dcadd28c2fb",
-    "url": "/aneriPatel/static/css/main.ba838864.chunk.css"
+    "revision": "bb901804b86a50c7848a",
+    "url": "/aneriPatel/static/css/main.9b18f7df.chunk.css"
   },
   {
-    "revision": "e20ba5b47ab05539af50",
-    "url": "/aneriPatel/static/js/2.9dbaa7f7.chunk.js"
+    "revision": "b1e2d99cf571b39f965b",
+    "url": "/aneriPatel/static/js/2.e357640c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/aneriPatel/static/js/2.9dbaa7f7.chunk.js.LICENSE.txt"
+    "url": "/aneriPatel/static/js/2.e357640c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc7cf1220dcadd28c2fb",
-    "url": "/aneriPatel/static/js/main.ef00a6ee.chunk.js"
+    "revision": "bb901804b86a50c7848a",
+    "url": "/aneriPatel/static/js/main.09be1282.chunk.js"
   },
   {
     "revision": "7e0350bc4b715166022e",
